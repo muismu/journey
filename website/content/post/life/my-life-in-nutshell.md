@@ -1,7 +1,7 @@
 ---
 title: "My Life in Nutshell"
 date: 2022-10-07T23:35:37+08:00
-description: "Article description."
+description: "Short introduction to My life"
 featured: false
 draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
