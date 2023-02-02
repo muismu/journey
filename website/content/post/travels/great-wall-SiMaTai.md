@@ -1,7 +1,7 @@
 ---
 title: "Great Wall - SiMaTai Segment" # Title of the blog post.
 date: 2022-10-07T23:47:03+08:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
+description: "" # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
@@ -27,4 +27,4 @@ tags:
 **Great Wall is regarded as one of seven wanders of the world. Once again, I climbed the unmaintained Great Wall adjacent to a commercial scenery in which a segment of Great Wall is maintained for profit**
 
 
-# There is no doubt that it is a wonder but I can help but thinking about the misery of all those people who built the wall.
+# There is no doubt that it is a wonder but I can not help but thinking about the misery of all those people who built the wall.
